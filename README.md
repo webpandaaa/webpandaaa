@@ -48,7 +48,10 @@
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=webpandaaa&show_icons=true&locale=en&layout=compact" alt="webpandaaa" /></p>
+<p align="center">
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=webpandaaa&show_icons=true&locale=en&layout=compact" alt="webpandaaa" width="40%" height="200" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=webpandaaa&theme=dark" alt="GitHub Streak" width="50%" />
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=webpandaaa&show_icons=true&locale=en" alt="webpandaaa" /></p>
 
