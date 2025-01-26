@@ -3,7 +3,8 @@
 <h3 align="center">A Passionate MERN Stack Developer From India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p align="left"> <img src="https://raw.githubusercontent.com/madhavagarwal3012/madhavagarwal3012/main/Black%20Background.gif" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=webpandaaa&label=Profile%20views&color=0e75b6&style=flat" alt="webpandaaa" /> </p>
+
 
 - 🌱 I’m currently learning **React Native & DSA**
 
